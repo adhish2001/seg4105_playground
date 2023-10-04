@@ -12,7 +12,8 @@ The use-case depends on the front-end flow. In our to help us understand the use
 
 ## Bread-Board
 
-image.png
+<img width="707" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/498c24ca-0955-4c29-bf6f-f9585f2ba094">
+
 
 ## Shaping Work
 
