@@ -22,3 +22,7 @@ Maybe the user doesn't complete that many workouts in a week so a weekly schedul
 
 The desing should be intuitve and meet the goals for the most amount of clients. In the fat marker above the key details are the calendar widget on the home page should be concise. It should fit into the profile card or it shouldn't crowd the hompage. There will be other components competing for homespace. It goes into session page, where it will simply present information in recency. This way either a weekly or monthly schedule will work and present all information.
 
+## Avoid
+
+Avoid exporting and importing data in this component.
+
