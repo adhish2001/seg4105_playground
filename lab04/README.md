@@ -14,11 +14,11 @@ The feature that will be "fat markered" is the calendar widget that has been pre
 
 ## Fat Marker Designs
 
-<img width="867" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/8202189a-4efa-419f-aa06-e47cb551c528">
+<img width="867" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/f6faf80d-c511-4338-bfec-657d28a24bca">
 
 ## Information: Edge Cases, Rabbit Holes
 
 Maybe the user doesn't complete that many workouts in a week so a weekly schedule widget may not be ideal and instead a monthly schdeule design should be implemented instead. Another rabbit hole is the exporting and importing of Data to this widget. This component should be a read-only component and there shouldn't be too many interactions. Adding interactions could make it too congested.
 
-The desing should be intuitve and meet the goals for the most amount of clients.
+The desing should be intuitve and meet the goals for the most amount of clients. In the fat marker above the key details are the calendar widget on the home page should be concise. It should fit into the profile card or it shouldn't crowd the hompage. There will be other components competing for homespace. It goes into session page, where it will simply present information in recency. This way either a weekly or monthly schedule will work and present all information.
 
