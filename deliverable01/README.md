@@ -19,10 +19,12 @@ Creating a calendar widget is the ideal solution that is intuive and easy for th
 3. Display list of previous workouts and stats like calories
 
 # Bread Boarding
-<img width="595" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/31b0e0e3-16bb-49dc-a96b-f2b332b4761b">
+<img width="612" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/753e09fb-56b3-446f-8887-cc63b41452df">
+
 
 # Fat Marker
-<img width="737" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/03ffbdfb-8844-4e52-8c64-2ec05b07b754">
+<img width="741" alt="image" src="https://github.com/adhish2001/seg4105_playground/assets/36574103/3613db9c-13d5-4c42-b157-6d6d98befefb">
+
 
 ## Rabbit Holes
 
