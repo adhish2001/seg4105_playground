@@ -5,7 +5,7 @@
 | Student    | Adhish Maheswaran 300133918 |
 
 # TUT05: Betting Table
-## Individual Work Session
+## Individual Work Session: Wednesday Oct 11
 Here is my review and summary of all the other pitches in my group.
 Luka David's Pitch: https://github.com/LukaDavid04/seg4105_playground/tree/main/del01
 
@@ -36,12 +36,13 @@ Two-factor authentication (2FA) is not a priority for the login feature at this 
 
 This feature doesn't directly address the problem. Login and register doesn't solve the issue in obtaining a personalized workout.
 
-## The Bet
+## The Bet Thursday Oct 12
 
 The pitch that was voted on unanimously was Andy's as it was the feature that we considered to provide the most value proposition.The other pitches had value to and can be completed in parallel but we wanted to thing about the problem and solution that Andy provided and it made the most sense within our timeframe.
 
-## Kick-Off
+## Kick-Off Thursday Oct 12
 
 The current task allocation is to have Andy work on Dev-ops and quality assurance related to this feaure.
 Me and Avaneesh will work on front-end components and design of the survey and components that will contain this feature.
 Khai and Luka will work on the back-end scheme and database work related to this feature.
+Changes requsted are shown on Andy's Pitch commit history: https://github.com/andyung17/seg4105_playground/tree/main/lab03
