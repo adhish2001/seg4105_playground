@@ -1,7 +1,7 @@
 | Outline    |                             |
 | ---------- | --------------------------- |
 | Course     | SEG4105                     |
-| Submission | Tut05                       |
+| Submission | Tut06                       |
 | Student    | Adhish Maheswaran 300133918 |
 
 # TUT06: Betting Table
